@@ -1,9 +1,7 @@
 
-# 🎯 AI Powered Resume Ranker 
+# AI Powered Resume Ranker 
 
 **AI Resume Match Analyzer** is a smart web application that evaluates how closely a resume matches a job description using semantic similarity and keyword extraction. This tool empowers job seekers to tailor their resumes for better alignment with job postings and receive personalized improvement suggestions with the help of AI.
-
----
 
 ## 🚀 Features
 
@@ -13,7 +11,6 @@
 - 📊 View a **match score** and **keyword comparison**
 - 💬 Get resume **improvement tips from ChatGPT** based on detected gaps
 
----
 
 ## 🛠️ Tech Stack
 
@@ -21,11 +18,6 @@
 - **NLP Models**: SentenceTransformers (SBERT), YAKE
 - **AI Assistant**: OpenAI ChatGPT API
 - **Utilities**: PyPDF2 for reading PDF files, Python libraries
-
----
-
-
-
 
 ## 🧩 How It Works
 
@@ -36,20 +28,17 @@
 5. **Keyword Extraction**: YAKE identifies and compares keywords.
 6. **AI Suggestions**: ChatGPT provides context-aware suggestions.
 
----
-
 ## 📌 Use Cases
 
 - 🎯 Job seekers tailoring resumes to specific roles
 - 🤖 Recruiters evaluating resume-to-job fit
 - 🎓 Career advisors helping students or clients improve resumes
 
----
 
 ## ▶️ Run the App Locally
 
 ```bash
-git clone https://github.com/your-username/ai-resume-match-analyzer.git
-cd ai-resume-match-analyzer
+git clone https://github.com/your-username/ai-powered-resume-ranker.git
+cd ai-powered-resume-ranker
 pip install -r requirements.txt
 streamlit run app.py
