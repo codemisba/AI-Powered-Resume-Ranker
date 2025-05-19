@@ -1,7 +1,7 @@
 
 # AI Powered Resume Ranker 
 
-**AI Resume Match Analyzer** is a smart web application that evaluates how closely a resume matches a job description using semantic similarity and keyword extraction. This tool empowers job seekers to tailor their resumes for better alignment with job postings and receive personalized improvement suggestions with the help of AI.
+**AI Powered Resume Ranker** is a smart web application that evaluates how closely a resume matches a job description using semantic similarity and keyword extraction. This tool empowers job seekers to tailor their resumes for better alignment with job postings and receive personalized improvement suggestions with the help of AI.
 
 ## 🚀 Features
 
